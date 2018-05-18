@@ -7,15 +7,14 @@ image:https://img.shields.io/badge/Angular%20Version-4-green.svg[]
 image:https://badges.frapsoft.com/typescript/code/typescript.svg?v=101[]
 image:https://circleci.com/gh/aerogear/cordova-showcase-template.svg?&style=shield[link=https://circleci.com/gh/aerogear/cordova-showcase-template]
 
-A template application to showcase features from link:https://github.com/aerogear/aerogear-js-sdk[Aerogear Js SDK].
+A template application to showcase features from link:https://github.com/aerogear/aerogear-js-sdk[Aerogear JS SDK].
 
-As this application showcases features from link:https://github.com/aerogear/aerogear-js-sdk[Aerogear Js SDK] ensure you checkout the desired git tag for whatever SDK version you intend to run. Check link:https://www.npmjs.com/org/aerogear[NPM] for associated versions and releases.
-== Build Instructions
+Check link:https://www.npmjs.com/search?q=keywords:aerogear%20services[NPM] for associated versions and releases.
 
 === Running the App
-This application can be run as a showcase using a published version of the AeroGear Js SDK, or as a development aid to working on the SDK.
+This application can be run as a showcase using a published version of the AeroGear JS SDK, or as a development aid to working on the SDK.
 
-==== Run Showcase
+==== Run as Showcase
 The `master` branch will always track to the latest release of the SDK.
 
 To build the showcase app, run:

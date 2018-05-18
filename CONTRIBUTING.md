@@ -32,7 +32,7 @@ Note: Work completed on un released SDK features should never be merged to `mast
 
 ## Cloning the repository
 
-You will first need to clone [Aerogear Js SDK](https://github.com/aerogear/aerogear-js-sdk):
+You will first need to clone [Aerogear JS SDK](https://github.com/aerogear/aerogear-js-sdk):
 ```
 git clone git@github.com:aerogear/aerogear-js-sdk.git
 ```
